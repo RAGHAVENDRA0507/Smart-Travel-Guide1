@@ -1,0 +1,46 @@
+{
+  "kameneni2006@gmail.com": {
+    "name": "Nagesh",
+    "email": "kameneni2006@gmail.com",
+    "phone": "1234567890",
+    "dob": "2026-09-03",
+    "gender": "Male",
+    "state": "Tenali",
+    "address": "POTHARLANKA",
+    "travelTypes": [
+      "Mountains"
+    ],
+    "budget": "₹20,000 – ₹40,000",
+    "interests": "",
+    "guideBio": "",
+    "guideExpertise": "",
+    "languages": "",
+    "experience": "",
+    "qualification": "",
+    "additionalInterests": "",
+    "role": "user",
+    "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+  },
+  "o220530@rguktong.ac.in": {
+    "name": "Ram",
+    "email": "o220530@rguktong.ac.in",
+    "phone": "9652891566",
+    "dob": "2026-09-10",
+    "gender": "Male",
+    "state": "Tenali",
+    "address": "Tenali",
+    "travelTypes": [
+      "Historical"
+    ],
+    "budget": "₹10,000 – ₹20,000",
+    "interests": "",
+    "guideBio": "",
+    "guideExpertise": "",
+    "languages": "",
+    "experience": "",
+    "qualification": "",
+    "additionalInterests": "",
+    "role": "user",
+    "passwordHash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+  }
+}
